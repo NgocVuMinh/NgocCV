@@ -88,7 +88,7 @@ section {
 body {
   margin: 0;
   font-family: "Lexend", sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
-  font-size: 1.2rem;
+  font-size: 1rem;
   font-weight: 400;
   line-height: 1.5;
   color: #212529;
@@ -395,7 +395,7 @@ h1, h2, h3, h4, h5, h6,
 }
 
 h1, .h1 {
-  font-size: 4rem;
+  font-size: 3rem;
 }
 
 h2, .h2 {
@@ -470,6 +470,13 @@ mark,
   margin: 0;
   padding: 0;
   box-sizing: border-box; /* Ensures padding/border doesn't add extra space */
+}
+
+.last-updated {
+    font-size: 0.8rem;
+    color: #adb5bd;
+    margin-left: 15px;
+    margin-bottom: 10px;
 }
 
 .list-unstyled {
