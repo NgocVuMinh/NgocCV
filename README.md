@@ -1,5 +1,5 @@
 # My online résume
 
-This resume is adapted from the [StartBootstrap CV template](https://github.com/startbootstrap/startbootstrap-resume).
+Adapted from the [StartBootstrap CV template](https://github.com/startbootstrap/startbootstrap-resume).
 
 Available online at: https://ngocvuminh.github.io/
