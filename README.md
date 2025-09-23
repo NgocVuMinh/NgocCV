@@ -1,4 +1,4 @@
-# My online resume
+# My online résume
 
 This resume is adapted from the [StartBootstrap CV template](https://github.com/startbootstrap/startbootstrap-resume).
 
